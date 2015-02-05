@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ls_config_callback">your callback url</string>
+    <string name="ls_config_name">your app name</string>
+    <string name="ls_config_key">your auth key</string>
+    <string name="ls_config_secret">your auth secret</string>
+    <string name="ls_config_merchant_id"></string>
+    <string name="ls_config_default_range">5000</string>
+</resources>
